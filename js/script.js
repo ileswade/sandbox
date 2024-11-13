@@ -1,5 +1,5 @@
 function wow() {
-    alert('Wow! You clicked me');
+    alert('Wow! You clicked me!!');
 }
 
 const button = document.querySelector('.clickable');
